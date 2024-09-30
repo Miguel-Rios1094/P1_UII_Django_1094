@@ -1,0 +1,14 @@
+- Crear aplicacion riosclase_app
+- Comando --> python manage.py startapp riosclase_app
+- Creamos el archivo urls.py en riosclase_app
+- ![alt text](image-1.png)
+- En setting.py de p2clase_1094
+- ![alt text](image.png)
+- En urls.py de p2clase_1094
+- ![alt text](image-2.png)
+- En urls.py en riosclase_app
+- ![alt text](image-3.png)
+- en views.py en riosclase_app
+- ![alt text](image-4.png)
+- en urls riosclase_app
+- ![alt text](image-5.png)
